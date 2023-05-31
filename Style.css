@@ -1,0 +1,101 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilos para o cabeçalho */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* Estilos para a navbar */
+  nav {
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  nav a:hover {
+    color: #fff;
+  }
+  
+  /* Estilos para a seção principal */
+  #principal {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .imagem-grande img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .imagens-pequenas {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .imagens-pequenas img {
+    width: 200px;
+    margin: 0 10px;
+  }
+  
+  /* Estilos para o rodapé */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* Estilos para a seção contato */
+#contato {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  #contato h2 {
+    color: #333;
+  }
+  
+  #contato p {
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos para a seção sobre */
+#sobre {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  #sobre h2 {
+    color: #333;
+  }
+  
+  #sobre p {
+    margin-bottom: 10px;
+  }
+  
